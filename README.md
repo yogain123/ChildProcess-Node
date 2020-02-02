@@ -12,5 +12,3 @@ Fork Child Process in NodeJS
 
 ### What the heck is Event Loop
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
-
-Author: Yogendra
