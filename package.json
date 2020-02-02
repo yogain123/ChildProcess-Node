@@ -1,7 +1,7 @@
 {
-  "name": "workers-pool",
+  "name": "childprocess",
   "version": "1.0.0",
-  "description": "Workers Pool Like Child Process in NodeJS",
+  "description": "Child Process in NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,12 +13,10 @@
   "author": "yogendra saxena",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^12.7.7",
-    "express": "^4.17.1",
-    "workerpool": "^5.0.0"
+    "express": "^4.17.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yogain123/Workers-Pool"
+    "url": "https://github.com/yogain123/ChildProcess-Node"
   }
 }
