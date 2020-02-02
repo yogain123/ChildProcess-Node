@@ -5,8 +5,8 @@ Fork Child Process in NodeJS
 
 ![Screen Shot 1941-11-13 at 9 54 17 PM](https://user-images.githubusercontent.com/14003377/73611308-bba32200-4606-11ea-8e76-5e5327c2985c.png)
 
-![Screen Shot 1941-11-13 at 10 07 12 PM](https://user-images.githubusercontent.com/14003377/73611521-94e5eb00-4608-11ea-8271-ed9bc510b3f6.png)
+![Screen Shot 1941-11-13 at 10 07 12 PM](https://user-images.githubusercontent.com/14003377/73611548-dffffe00-4608-11ea-82ec-add28d40f3e2.png)
 
-![Screen Shot 1941-11-13 at 10 07 52 PM](https://user-images.githubusercontent.com/14003377/73611522-94e5eb00-4608-11ea-80ec-7343449d1be8.png)
+![Screen Shot 1941-11-13 at 10 07 52 PM](https://user-images.githubusercontent.com/14003377/73611549-dffffe00-4608-11ea-8101-616aed01fbc8.png)
 
 
